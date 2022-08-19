@@ -74,3 +74,29 @@ a,
     font-weight: 600;
     font-size: 14px;
 }
+
+.information {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.information h2 {
+    font-size: 36px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.entry {
+    max-width: 150px;
+}
+
+.image {
+    border: 3px solid #3882F6;
+    height: 130px;
+    border-radius: 15px;
+}
+
