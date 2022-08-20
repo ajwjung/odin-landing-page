@@ -162,3 +162,9 @@ a,
 .signup-text p {
     margin: 5px;
 }
+
+/* Footer */
+.footer {
+    padding: 30px;
+    text-align: center;
+}
